@@ -6,7 +6,7 @@ If interested please visit the LeetCode site and read the requirements.
 If you are still interested in the problem, I invite you to read about 
 my approach and comments in the following associated post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/02/07/3921/
 
 Keep in mind that on eof the best ways to learn is to read and experiment.
 
